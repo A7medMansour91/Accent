@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Accent</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_uplode">Uplode</string>
+    <string name="action_libary">Libary</string>
+
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="Txt_VideoFile_only">Video File (.mp4 only)</string>
+    <string name="Txt_SubtitleFile_only">Subtitle File (.srt only)</string>
+    <string name="Choose_Video">Video Choose</string>
+    <string name="Choose_File">File Choose</string>
+    <string name="Video_Title">Video Title</string>
+
+    <string name="Save_to_Library">Save to Library</string>
+    <string name="Cancel">Cancel</string>
+    <string name="textview">TextView</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_movies__list">Movies_List</string>
+    <string name="title_activity_movies__item">Movies_Item</string>
+
+
+</resources>
